@@ -71,3 +71,9 @@ body {
   .menu-btn.open .menu-btn__burger::after {
     transform: rotate(-45deg) translate(35px, 35px);
   }
+
+.footer-row {
+  display: flex !important;
+  align-items: center !important;
+  justify-content: center !important;
+}
